@@ -162,6 +162,7 @@ section .about{
     height: auto;
 }
 .about-content p{
+    text-align: left;
     font-size: 2rem;
     margin: 2rem 0 3rem;
     padding: 2rem 3rem;
@@ -215,13 +216,13 @@ section .about{
     margin: 0;
     padding: 5rem;
     display: inline-block;
-    *display: inline;
+    /* *display: inline; */
     display: inline-grid;
     zoom: 1;
     gap: 5rem;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
 }
 /* .skills-box li{
     text-align: left;
