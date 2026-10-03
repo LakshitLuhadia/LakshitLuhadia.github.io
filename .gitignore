@@ -1,0 +1,8 @@
+# Resume PDFs contain a phone number and are intentionally NOT part of the site.
+*.pdf
+# Design canvas sources (live in the Claude artifact, not needed on the site).
+_design/
+# Local tooling
+node_modules/
+.DS_Store
+Thumbs.db
